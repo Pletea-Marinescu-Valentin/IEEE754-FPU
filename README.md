@@ -44,14 +44,16 @@ This repository contains a Verilog implementation of an IEEE 754 compliant singl
 📂 hyperspectral_classification
 
 ├── fpu.v                    # Verilog implementation of the FPU
+
 ├── test_fpu.v               # Testbench for verifying the FPU
+
 ├── README.md                # Project documentation
 
 
 ## How to Use
 
 1. **Clone the Repository**:
-   git clone https://github.com/yourusername/IEEE754-FPU.git
+   git clone https://github.com/Pletea-Marinescu-Valentin/IEEE754-FPU.git
    cd IEEE754-FPU
 
 2. **Integrate the Module: Add fpu.v to your Verilog project. Instantiate the FPU module in your design**:
