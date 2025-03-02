@@ -1,6 +1,5 @@
 /*
- * Floating Point Unit (FPU) - IEEE 754 Compliant
- * Author: [Your Name]
+ * Floating Point Unit (FPU) - IEEE 754
  * Description:
  *     This module implements an IEEE 754 single-precision floating-point unit (FPU).
  *     It supports basic arithmetic operations and comparisons for 32-bit floating-point numbers.
